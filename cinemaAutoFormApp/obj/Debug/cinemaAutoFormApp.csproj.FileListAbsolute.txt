@@ -1,0 +1,10 @@
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\bin\Debug\cinemaAutoFormApp.exe.config
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\bin\Debug\cinemaAutoFormApp.exe
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\bin\Debug\cinemaAutoFormApp.pdb
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\obj\Debug\cinemaAutoFormApp.csprojAssemblyReference.cache
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\obj\Debug\cinemaAutoFormApp.MainForm.resources
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\obj\Debug\cinemaAutoFormApp.Properties.Resources.resources
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\obj\Debug\cinemaAutoFormApp.csproj.GenerateResource.cache
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\obj\Debug\cinemaAutoFormApp.csproj.CoreCompileInputs.cache
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\obj\Debug\cinemaAutoFormApp.exe
+C:\Users\hbatuhankurt\source\repos\cinemaAutomation\cinemaAutoFormApp\obj\Debug\cinemaAutoFormApp.pdb
